@@ -1,25 +1,21 @@
 # About me
 
----
-
 ## Biography
 
-I'm Jérémy Ravenel—a farm boy turned data mercenary and now entrepreneur, passionate about practical innovation to make our digital lives less chaotic.
+I'm Jérémy Ravenel, a farm boy turned data mercenary and now entrepreneur, passionate about practical innovation to make our digital lives less chaotic.
 
 I help people and companies create data & AI products that make work easier and more efficient.
 
-My journey started in finance, where I discovered the real world was less automated than expected. Frustration led me to coding, Python, and Jupyter notebooks—and eventually founding [CashStory](https://www.cashstory.com), bridging business and tech teams across France.
+My journey started in finance, where I discovered the real world was less automated than expected. Frustration led me to coding, Python, and Jupyter notebooks—and eventually founding CashStory, bridging business and tech teams across France.
 
-Currently, I'm leading [Naas.ai](https://naas.ai), building an open Universal Data & AI Platform to help organizations create powerful ecosystems of AI assistants. Our goal? Empower organizations to leverage ontologies as a unifying field between data, AI models, workflows, analytics, and external systems.
+Currently, I'm leading [Naas.ai](https://naas.ai), building an open Universal Data & AI Platform to help organizations create powerful ecosystems of AI assistants. Our goal is to empower individuals and organizations to create their own, sovereign AI using ontologies as a unifying field between data, AI models, workflows, analytics, and external systems.
 
 I'm also a Research Associate in Applied Ontology at the University at Buffalo, working to make AI systems more understandable and trustworthy. I advise companies on Data and AI strategy at Forvis Mazars.
 
-This mix of research, hands-on development, and strategy is the intersection of philosophy, tech, and business I always dreamed of.
+This mix of research, hands-on development, strategy and finance is the intersection of philosophy, tech, and business I always dreamed of working on.
 
 If you're curious about how data and AI can make your work easier and more impactful—let's connect!  
 📧 jeremy@naas.ai
-
----
 
 ## Philosophy
 
@@ -37,8 +33,6 @@ If you're curious about how data and AI can make your work easier and more impac
 - **LLMs & Data Organization:** AI’s value is limited by the messiness of business data—organization is critical.
 - **GraphRAG & Challenges:** Data quality, retrieval, graph construction, LLM integration, scalability, and ethics are crucial for next-gen AI assistants.
 
----
-
 ## Experience
 
 **Founder & CEO, Naas.ai** (Apr 2023—Present)  
@@ -55,8 +49,6 @@ Automation services for business professionals, education, and open-source produ
 
 **Group Cash Manager, Technip** (Apr 2013—Oct 2016)  
 Treasury management, business systems, and cross-organizational strategy.
-
----
 
 **Education**
 
